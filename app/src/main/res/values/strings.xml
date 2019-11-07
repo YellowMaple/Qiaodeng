@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">桥凳</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_build">New</string>
+    <string name="me">me</string>
+    <string name="sports_select">请点击一项运动</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
